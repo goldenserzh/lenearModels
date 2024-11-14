@@ -49,3 +49,9 @@ bash
 Copy code
 pip install -r requirements.txt
 
+Результат работы: 
+-Логистическая регрессия: 
+![image](https://github.com/user-attachments/assets/36b84dc2-e2c0-4587-aa83-1e17b28e83e9)
+-Линейная регрессия: 
+![image](https://github.com/user-attachments/assets/87b720af-2599-4ca5-8656-c301f4d0a3f6)
+
