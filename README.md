@@ -50,7 +50,10 @@ Copy code
 pip install -r requirements.txt
 -Логистическая регрессия: 
 ![image](https://github.com/user-attachments/assets/36b84dc2-e2c0-4587-aa83-1e17b28e83e9)
+![image](https://github.com/user-attachments/assets/632804ec-68d8-410a-b4f9-a8eaa4b5efdc)
+
 -Линейная регрессия: 
-![image](https://github.com/user-attachments/assets/87b720af-2599-4ca5-8656-c301f4d0a3f6)
+![image](https://github.com/user-attachments/assets/e17708bb-9795-4987-9e3c-f4f87d0f6bd1)
+
 
 
