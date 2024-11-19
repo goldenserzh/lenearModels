@@ -124,15 +124,6 @@ class LinearRegression(LinearModel):
             np.ndarray: Вектор предсказанных значений.
         """
         return x.dot(self.w) + self.b
-
-    def weight(self) -> np.ndarray:
-        """
-        Возвращает веса модели.
-        
-        Returns:
-            np.ndarray: Текущие веса модели.
-        """
-        return self.w
     
     def analytical_solution(self, x: Union[np.ndarray, pd.DataFrame], y: Union[np.ndarray, pd.Series]) -> None:
         """
